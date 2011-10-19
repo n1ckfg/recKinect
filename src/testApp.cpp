@@ -61,6 +61,7 @@ void testApp::update(){
 			sayText = fileName + "_" + sayText;
 		}
 		//ofSaveScreen(sayText);
+		//raw file writer by Elliot Woods
 		outfile.open(ofToDataPath(sayText).c_str(), ios::binary | ios::trunc);
 		outfile.write ((char*)&timestamp,4);
 		outfile.write ((char*)kinect.getRawDepthPixels(),2 * kinect.width * kinect.height);
