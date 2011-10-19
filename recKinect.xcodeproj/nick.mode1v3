@@ -329,7 +329,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>015B2FF5144E6D6700038CFB</string>
+										<string>0188BD41144E6E4D00622673</string>
 										<key>history</key>
 										<array>
 											<string>017020C713F74C8000789B96</string>
@@ -340,7 +340,7 @@
 											<string>013E8AAD144D2A9700F05E04</string>
 											<string>016DB609144E0497002732C9</string>
 											<string>016DB60A144E0497002732C9</string>
-											<string>016DB62D144E10CC002732C9</string>
+											<string>015B2FF5144E6D6700038CFB</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -352,14 +352,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1232, 479}}</string>
+								<string>{{0, 0}, {1232, 472}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 121 1440 756 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>479pt</string>
+							<string>472pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -372,14 +372,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 484}, {1232, 231}}</string>
+								<string>{{0, 477}, {1232, 238}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 121 1440 756 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>231pt</string>
+							<string>238pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -398,9 +398,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>015B2FF6144E6D6700038CFB</string>
+				<string>0188BD42144E6E4D00622673</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>015B2FF7144E6D6700038CFB</string>
+				<string>0188BD43144E6E4D00622673</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -538,10 +538,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>015B3000144E6D6700038CFB</string>
-		<string>015B3001144E6D6700038CFB</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>01A60EAA137A5C0C0033390B</string>
 		<string>/Users/nick/Projects/Development/OpenFrameworks/apps/kinect/recKinect/recKinect.xcodeproj</string>
 	</array>
@@ -623,7 +619,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>01A60EAA137A5C0C0033390B</string>
-				<string>015B2FF8144E6D6700038CFB</string>
+				<string>0188BD44144E6E4D00622673</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
