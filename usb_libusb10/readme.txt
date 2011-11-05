@@ -1,0 +1,1 @@
+To run this on a first-generation 32-bit Intel Mac (or an exotic Hackintosh variant, like an Atom netback), you'll need this file.
